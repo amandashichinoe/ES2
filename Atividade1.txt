@@ -1,0 +1,82 @@
+Atividade 1 - Palavras-Chave
+
+proceso de software
+modelos de processo
+diferentes modelos
+
+documentação
+atributos
+funcionalidade
+bom desempenho
+confiável
+fácil de manter
+usabilidade
+
+especificação
+desenvolvimento
+validação
+evolução
+
+diminuição do tempo
+custos
+qualidade
+desenvolver
+teste
+técnicas 
+métodos
+segurança
+
+processo de sotware
+conjunto de atividades
+desenvolvido do zero
+extendido
+especificação
+projeto
+implementação
+validação
+evolução
+
+abstrações
+frameworks
+cascata
+incremental
+orientado a reuso
+ciclo de vida
+definição de requisitos
+projeto 
+implementação
+integração
+operação 
+manutenção
+iterações
+esboço
+desenvolvimento
+validação
+versão inicial
+versões intermediárias
+versão final
+análise de componentes
+
+estudo de viabilidade
+elicitação e análise de requisitos
+modelos de sistema
+relatório de viabilidade
+especificação de requisitos
+validação de requisitos
+requisitos de usuários e de sistema
+
+projeto de arquitetura
+banco de dados
+interface
+componentes
+
+teste de componente
+teste de sistema
+teste de aceitação
+plano de teste
+teste de integração
+
+avaliar o sistema
+propor mudanças
+modificar o sistema
+novo sistema
